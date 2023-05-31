@@ -7,10 +7,11 @@ https://ibm-learning.udemy.com/course/microservices-with-spring-boot-and-spring-
 <br>
 <br>
 <br>
-## Git 사용법
-<br>
-Git Bash 혹은 Terminal 사용 시
 
+## Git 사용법
+
+Git Bash 혹은 Terminal 사용 시
+<br>
 ```
 - mkdir (원하는 폴더 이름)
 - cd (원하는 폴더 이름)
@@ -21,7 +22,7 @@ Git Bash 혹은 Terminal 사용 시
 - 소스 코드 작성 후
 - Push 진행
 ```
-
+<br>
 - 위와 같이 자신만의 브랜치 생성 후 각자 자신의 브랜치에서 클론 코딩을 진행하시면 됩니다.
 
 ## Push & Merge
