@@ -2,8 +2,10 @@
 
 ## spring-microservices-v2 강의를 듣고 클론 코딩한 결과물 저장소
 https://ibm-learning.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/33578826#overview
-
-Git 사용법
+<br>
+<br>
+<br>
+## Git 사용법
 
 Git Bash 혹은 Terminal 사용 시
 ```
