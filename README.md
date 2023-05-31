@@ -1,4 +1,4 @@
-# microservice_springboot
+# Microservice_springboot
 
 ## Spring-microservices-v2 내용 및 클론 코딩
 spring-microservices-v2 강의를 듣고 클론 코딩한 결과물 저장소
