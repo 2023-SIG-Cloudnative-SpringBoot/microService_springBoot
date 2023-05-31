@@ -24,11 +24,10 @@ Git Bash 혹은 Terminal 사용 시
 
 - 위와 같이 자신만의 브랜치 생성 후 각자 자신의 브랜치에서 클론 코딩을 진행하시면 됩니다.
 
-
 ## Push & Merge
 <br>
 - 소스 코드 작성 후 Push 까지 마쳤으면, Pull Request가 자동으로 생성됩니다. 혹은 자동으로 생성되지 않는다면, main branch와 비교 후 생성해 주세요.
-- main branch에 merge하기 위해서는 동료 평가 및 확인이 필수적으로 있어야 합니다. 
+- main branch에 merge하기 위해서는 동료 평가 및 확인이 필수적으로 있어야 합니다.
 - 다른 동료분의 Push를 보셨다면 코멘트 및 검토 후 merge 승인 부탁드립니다.
 
 
